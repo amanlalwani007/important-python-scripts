@@ -1,0 +1,5 @@
+a=float(input("Enter dollar"))
+print('Quarter',a/.25)
+print('penny and cents',a*100)
+print('nickel',a/.05)
+print('Dime',a/.1)
